@@ -56,10 +56,6 @@ align = "right"
 
 ### ![Profile Views](https://komarev.com/ghpvc/?username=Amanmry&color=blue&style=for-the-badge)
 
-### GitHub Stats 📊
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Amanmry&show_icons=true&theme=merko&hide=issues">
 
 ---
 
