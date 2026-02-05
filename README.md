@@ -20,8 +20,6 @@ align = "right"
 
 ###
 
-- **Software Engineer** at **`Walmart Global Tech`** 
-
 - Skilled in **`C++`** and **`Java`**
 
 - Hands-on experience in **`Python`** and **`JavaScript`**
@@ -33,10 +31,6 @@ align = "right"
     - **`Languages :`** C++, Java, Python
 
     - **`Databases :`** PostgreSQL
-    
-    - **`ETL Service :`** Azure Data Factory and Databricks
-
-    - **`Datawarehouse :`** Google Big Query
     
     ### Currently I'm Learning
 
